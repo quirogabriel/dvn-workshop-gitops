@@ -11,6 +11,6 @@ images:
   newTag: d81d6c728c01ca86e0402e45a8d86950a9b743d0
 - name: 758862194321.dkr.ecr.us-east-1.amazonaws.com/dvn-workshop-jan/production/frontend
   newName: 758862194321.dkr.ecr.us-east-1.amazonaws.com/dvn-workshop-jan/production/frontend
-  newTag: v1.0
+  newTag: d81d6c728c01ca86e0402e45a8d86950a9b743d0
 apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
