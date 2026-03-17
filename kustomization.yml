@@ -6,9 +6,6 @@ resources:
 
     
 images:
-- name: /dvn-workshop-jan/production/backend
-  newName: 758862194321.dkr.ecr.us-east-1.amazonaws.com/dvn-workshop-jan/production/backend
-  newTag: 88d373f9602eedc63a7c2c66817ec99f5eae6897
 - name: 758862194321.dkr.ecr.us-east-1.amazonaws.com/dvn-workshop-jan/production/backend
   newName: 758862194321.dkr.ecr.us-east-1.amazonaws.com/dvn-workshop-jan/production/backend
   newTag: 6c8611db580a9fa95b94f372348b35327bb12374
